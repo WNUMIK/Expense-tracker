@@ -7,6 +7,6 @@ Expense tracker with chart.
 
 run: 
 
-`npm install'
+`npm install`
 
 `npm start`
